@@ -35,7 +35,7 @@ try {
 				if($chatId == $id){
 					if($text == '/start'){
               $bot->sendvideo([ 'chat_id'=>$chatId,
-              'video'=>"https://t.me/a011437/3",
+              'video'=>"https://t.me/G_D_W/11",
                    'caption'=>'𝑊𝐸𝐿𝐶𝑂𝑀𝐸 𝑇𝑂 𝐻𝐸𝐿𝐿 𝐻𝑈𝑁𝑇𝐸𝑅 †
 ~ @ZZZNZN 🍂',
                   'inline_keyboard'=>true,
